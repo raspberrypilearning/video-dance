@@ -1,14 +1,14 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+You will make a dancing game, where you have to move your body to be captured by your video camera, and copy the dancer on the stage.
 
 ### What you will make
 
 --- no-print ---
-Add instructions for using the embedded content here.
+Enable your camera if asked. Watch the bottom circle and the order the colours change. When ready, wave your arms over the same coloured circles at the top of the screen.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+<iframe src="https://scratch.mit.edu/projects/348781311/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 --- /no-print ---
 
@@ -22,17 +22,15 @@ title: What you will need
 ---
 ### Hardware
 
-+ Describe hardware here
++ A computer with a webcam
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
++ Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
 
 ### Downloads
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
++ [rpf.io/video-dance-go](http://rpf.io/video-dance-go){:target="_blank"}
 
 --- /collapse ---
 
@@ -41,9 +39,6 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
-
 --- /collapse ---
 
 --- collapse ---
@@ -51,8 +46,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/video-dance/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+[Here is a link to the resources for this project](http://rpf.io/video-dance-go).
 
 --- /collapse ---
