@@ -66,7 +66,9 @@ Duplicate the sprite's costume so that there are 5 different costumes.
 --- task ---
 Change the fill colour for each of the costumes using the `Fill` drop down menu to choose a colour, and the `Fill` tool to colour the circles.
 ![choose colour](images/choose_colour.png)
-![choose fill colour](images/choose_fill_colour.png)
+![choose fill colour](images/change_fill_colour.png)
 --- /task ---
+
+![coloured costumes](images/coloured_costumes.png)
 
 That's all the graphics completed, for now, so you can now move on to the next step and begin programming the game.
