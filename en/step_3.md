@@ -1,4 +1,4 @@
-## Making the sprite dance.
+## Making the sprite dance
 
 In this step you will make the sprite dance randomly on the stage. To do this you will place random numbers into a list. The dancer will then change their costume and a sound will play depending on that random number.
 
