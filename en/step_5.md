@@ -30,4 +30,8 @@ play drum (pad) for (beats) beats
 The bottom pad (`pad5`) will have some scripts added later, so for now just delete all the scripts for that sprite.
 --- /task ---
 
+--- task ---
+Makes sure that the sprite name, sprite costume and `pad`{:class="block3variables"} all match for each of the pads. For instance the sprite `pad3` should be using `costume3` and have a `pad`{:class="block3variables"} variable of `3`{:class="block3variables"}.
+--- /task ---
+
 Now each pad will play a different drum beat when it is touched, and will add the value of it's own `pad`{:class="block3variables"} variable to the `actions`{:class="block3variables"} list.

@@ -99,5 +99,27 @@ end
 --- /task ---
 
 --- task ---
-Click the green flag and have a play at touching the right pads. You'll probably find the game a little difficult at the moment, so in the next step you will add some scripts to give the players a visual clue as to which pads to hit.
+Now add in the call to your custom block into your main script.
+
+![dance sprite](images/dance_sprite.png)
+```blocks3
+when flag clicked
+wait (1) seconds
+set [level v] to (1)
+set [beats v] to (1)
+forever
+delete all of [moves v]
+repeat (level)
+add (pick random (1) to (4)) to [moves v]
+set [move v] to (item (length of [moves v]) of [moves v])
+switch costume to (move)
+play drum (move) for (beats) beats
+end
+say [now it's your turn] for (1) seconds
+broadcast [start dancing v]
+wait until <(length of [actions v]) = (length of [moves v])>
++compare lists ::custom
+```
+
+Click the green flag and have a play at touching the correct pads. You'll probably find the game a little difficult at the moment, so in the next step you will add some scripts to give the players a visual clue as to which pads to hit.
 --- /task ---
