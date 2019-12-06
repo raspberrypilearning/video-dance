@@ -73,4 +73,4 @@ play sound [dance around v] until done
 ```
 --- /task ---
 
-That's your game complete. Click the green flag and watch pad5 to see which pads you need to reach for when it is your turn.
+That's your game complete. Click the green flag and watch pad5 to see which pads you need to reach for when it is your turn. Dance around and see how high a level you can reach
