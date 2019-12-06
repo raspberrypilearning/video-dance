@@ -6,7 +6,7 @@ Pad5 will be used to tell the player which colour pad to hit, by changing colour
 On the dancer sprite, add in a `broadcast`{:class="block3events"} block.
 
 ![dance sprite](images/dance_sprite.png)
-```blocks
+```blocks3
 when flag clicked
 wait (1) seconds
 set [level v] to (1)
@@ -45,7 +45,7 @@ set size to (100) %
 --- task ---
 Then when the game starts you can reset the sprite
 ![pad6](images/pad5.png)
-```blocks
+```blocks3
 when flag clicked
 set size to (100) %
 switch costume to [costume5]
@@ -64,7 +64,7 @@ Open the sounds tab on the pad5 sprite. Add a music loop that you like the sound
 Now add blocks to play the sound when the game starts.
 
 ![pad6](images/pad5.png)
-```blocks
+```blocks3
 when flag clicked
 set size to (100) %
 switch costume to [costume5]
