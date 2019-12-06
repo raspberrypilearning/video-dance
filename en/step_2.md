@@ -2,7 +2,7 @@
 
 To being creating your Video Dance project, you are going to need to find a backdrop and position your sprites on the stage.
 
---- task ---
+
 --- task ---
 Open a new Scratch project.
 
