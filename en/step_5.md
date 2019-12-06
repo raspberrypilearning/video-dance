@@ -7,7 +7,7 @@ Rename your circular sprite so that it is called `pad1`, then right click and du
 --- /task ---
 
 --- task ---
-Use the costumes tab to choose a different starting colour for each pad, and then position them around the stage. One pad should be white and postioned at the bottom.
+Use the costumes tab to choose a different starting colour for each pad, and then position them around the stage. One pad should be white and positioned at the bottom.
 
 ![position pads](images/position_pads.png)
 --- /task ---

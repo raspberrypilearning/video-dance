@@ -68,7 +68,7 @@ For the next part you will need to add the Music extension.
 [[[generic-scratch3-add-music-extension]]]
 
 --- task ---
-Create a new variable called `beats`{:class="block3variables"}. It can be set to `1`{:class="block3variables"} to begine with. This will be used to control the tempo of the drum beats. Then add a block to play a drum beat.
+Create a new variable called `beats`{:class="block3variables"}. It can be set to `1`{:class="block3variables"} to begin with. This will be used to control the tempo of the drum beats. Then add a block to play a drum beat.
 
 ![dance sprite](images/dance_sprite.png)
 ```blocks3

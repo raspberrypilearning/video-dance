@@ -1,8 +1,8 @@
-## Uping the level
+## Upping the level
 
-Now thart you have all the pads set up, it's time to check if the player has 'touched' the correct pad when they made their dance move. If they did then the level can be increased. Increasing the level will add more moves into the `moves`{:class="block3variables"} list, and so the game will keep getting more and more difficult.
+Now that you have all the pads set up, it's time to check if the player has 'touched' the correct pad when they made their dance move. If they did then the level can be increased. Increasing the level will add more moves into the `moves`{:class="block3variables"} list, and so the game will keep getting more and more difficult.
 
-To check if the player has touched the correct pads, you will need to compare each item in the `moves`{:class="block3variables"} and `actions`{:class="block3variables"} lists. If they have danced correctly, the first items in each list will be the same number. As the game gets more difficult, the second, third, fouth numbers should all be the same as each other.
+To check if the player has touched the correct pads, you will need to compare each item in the `moves`{:class="block3variables"} and `actions`{:class="block3variables"} lists. If they have danced correctly, the first items in each list will be the same number. As the game gets more difficult, the second, third, fourth numbers should all be the same as each other.
 
 To do this, you're going to create a custom block that will compare the items in any two lists. This will be on the dancer sprite.
 
