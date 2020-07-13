@@ -14,7 +14,7 @@ The first few blocks will be used to start the game. The `level`{:class="block3v
 ![dance sprite](images/dance_sprite.png)
 ```blocks3
 when flag clicked
-wait (2) seconds
+wait (1) seconds
 set [level v] to (1)
 forever
 delete all of [moves v]
