@@ -1,15 +1,18 @@
+---
 title: video-dance
 hero_image: images/banner.png
 description: video-dance description
 version: 4
 listed: false
 copyedit: false
-last_tested: "2019-11-27"
+last_tested: '2019-11-27'
 steps:
-  - title: Introduction
-  - title: Setting the stage
-  - title: Making the sprite dance
-  - title: Getting the player to dance
-  - title: More pads
-  - title: Uping the level
-  - title: Give them a clue
+- title: Introduction
+  completion: engaged
+- title: Setting the stage
+- title: Making the sprite dance
+- title: Getting the player to dance
+- title: More pads
+- title: Uping the level
+  completion: internal
+- title: Give them a clue
